@@ -39,5 +39,6 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "trashOption": "local"
 }

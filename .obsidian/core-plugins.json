@@ -14,13 +14,11 @@
   "slash-command",
   "editor-status",
   "starred",
-  "markdown-importer",
   "random-note",
   "outline",
   "word-count",
   "audio-recorder",
   "workspaces",
   "file-recovery",
-  "publish",
-  "sync"
+  "publish"
 ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Тимлид/Тестовая заметка.md",
+                "file": "01 Тимлид/Тимлид.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Тимлид/Тестовая заметка.md",
+                "file": "01 Тимлид/Тимлид.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Тимлид/Тестовая заметка.md",
+                "file": "01 Тимлид/Тимлид.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Тимлид/Тестовая заметка.md"
+                "file": "01 Тимлид/Тимлид.md"
               }
             }
           }
@@ -148,29 +148,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "workspaces:Пространства": false,
+      "publish:Публикация изменений": false,
       "canvas:Create new canvas": false
     }
   },
-  "active": "90f6c686d8a4bd6d",
+  "active": "a5b0982cb3c9d07a",
   "lastOpenFiles": [
+    "01 Тимлид/Роли и обязанности/Встреча 1-1.md",
     "01 Тимлид/Тимлид.md",
-    "01 Тимлид/Встреча 1-1.md",
+    "Менеджмент. Управление продуктом. Управление людьми/12 принципов Agile.md",
+    "01 Тимлид/Тестовая заметка2.md",
     "00 Meta/Template/Note template.md",
     "01 Тимлид/Untitled.canvas",
     "Менеджмент. Управление продуктом. Управление людьми/Кросс-функциональные команды.md",
     "Менеджмент. Управление продуктом. Управление людьми/Спринт.md",
     "Менеджмент. Управление продуктом. Управление людьми/Итеративная и инкрементальная работа.md",
-    "Менеджмент. Управление продуктом. Управление людьми/Внедрение Agile.md",
-    "Менеджмент. Управление продуктом. Управление людьми/Team Retrospectives.md",
-    "Менеджмент. Управление продуктом. Управление людьми/Гайды канбана.md"
+    "Менеджмент. Управление продуктом. Управление людьми/Внедрение Agile.md"
   ]
 }
