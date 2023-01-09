@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "9b06076a0ac2076c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e46a452e3b482a35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b0982cb3c9d07a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Тимлид/Тимлид.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "023225219a205be3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b14d268066185dc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90f6c686d8a4bd6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "183457244ad2d6a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "798b194c29b2c49c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "56c5f1111ed65c92",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279
+  },
+  "right": {
+    "id": "9181af09aa5b455e",
+    "type": "split",
+    "children": [
+      {
+        "id": "730e0b764eb46556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "177044a46de539d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Тимлид/Тимлид.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5431fddd00510ee9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Тимлид/Тимлид.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7b1e34f860140769",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "430ada8b7ad35d4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Тимлид/Тимлид.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "a5b0982cb3c9d07a",
+  "lastOpenFiles": [
+    "01 Тимлид/Встреча 1-1.md",
+    "00 Meta/Template/Note template.md",
+    "01 Тимлид/Тимлид.md",
+    "01 Тимлид/Untitled.canvas",
+    "Менеджмент. Управление продуктом. Управление людьми/Кросс-функциональные команды.md",
+    "Менеджмент. Управление продуктом. Управление людьми/Спринт.md",
+    "Менеджмент. Управление продуктом. Управление людьми/Итеративная и инкрементальная работа.md",
+    "Менеджмент. Управление продуктом. Управление людьми/Внедрение Agile.md",
+    "Менеджмент. Управление продуктом. Управление людьми/Team Retrospectives.md",
+    "Менеджмент. Управление продуктом. Управление людьми/Гайды канбана.md"
+  ]
+}

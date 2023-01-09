@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "9b06076a0ac2076c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8274ae4cce328c62",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 Base/00. UX исследования.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        },
+        "group": "bcc27e5614901495"
+      },
+      {
+        "id": "59dbb8b98373990b",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "01 Base/00. UX исследования.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 2,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.9697112878489116,
+              "close": true
+            }
+          }
+        },
+        "group": "bcc27e5614901495"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "023225219a205be3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b14d268066185dc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90f6c686d8a4bd6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "183457244ad2d6a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "798b194c29b2c49c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "56c5f1111ed65c92",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9181af09aa5b455e",
+    "type": "split",
+    "children": [
+      {
+        "id": "730e0b764eb46556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "177044a46de539d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Base/00. UX исследования.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5431fddd00510ee9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Base/00. UX исследования.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b1e34f860140769",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "430ada8b7ad35d4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Base/00. UX исследования.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5,
+    "collapsed": true
+  },
+  "active": "8274ae4cce328c62",
+  "lastOpenFiles": [
+    "01 Base/Тестирование.md",
+    "01 Base/Marketing mix (4p&7p).md",
+    "01 Base/Trendwatching.md",
+    "01 Base/MBO.md",
+    "01 Base/Как пользоваться дебетовой и кредитной картой.md",
+    "01 Base/Что такое JTBD.md",
+    "01 Base/User Story.md",
+    "01 Base/Советы на собеседовании.md",
+    "01 Base/00.Собеседования.md",
+    "01 Base/Как подготовиться к собеседованию по методике STAR.md"
+  ]
+}

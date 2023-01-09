@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "0d5904e8642a9e80",
+    "type": "split",
+    "children": [
+      {
+        "id": "8467ca0dee0fcea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "664106d8b6a735e3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8478f6164456b297",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "de53cbbe37cd0297",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "4335cca099e9b951",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4926132e1a904d36",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2855e922786cb318",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "0334d4ce21e41462",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "365a6e9c01cbb2e2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ac33ed9a25523189",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8e8b5e65cad08546",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "664106d8b6a735e3",
+  "lastOpenFiles": [
+    "Обучение и менторство/Карта компетенций продуктового исследователя.md",
+    "01 Тимлид/Тимлид.md",
+    "01 Тимлид/Встреча 1-1.md",
+    "Быстрые заметки.md",
+    "00 Meta/File/Recording 20221120144756.m4a",
+    "Обзор итогов спринта.md",
+    "01 Base/Как оценить визуальный дизайн.md"
+  ]
+}

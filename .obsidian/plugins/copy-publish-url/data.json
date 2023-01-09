@@ -1,0 +1,9 @@
+{
+  "homeNote": "Obsidian-Knowledge-Base",
+  "publishPath": "Obsidian-Knowledge-Base/",
+  "enableContext": true,
+  "enableOpenUrl": true,
+  "enableGithub": true,
+  "remoteUrl": "https://github.com/brzgalov/Obsidian-Knowledge-Base.git/",
+  "branch": "main"
+}
