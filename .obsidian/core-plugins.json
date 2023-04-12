@@ -14,11 +14,8 @@
   "slash-command",
   "editor-status",
   "starred",
-  "random-note",
   "outline",
-  "word-count",
   "audio-recorder",
   "workspaces",
-  "file-recovery",
-  "publish"
+  "file-recovery"
 ]

@@ -40,5 +40,6 @@
   },
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "foldHeading": false
 }

@@ -4,24 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "e46a452e3b482a35",
+        "id": "4363ca63c5763f02",
         "type": "tabs",
+        "dimension": 62.392550143266476,
         "children": [
           {
-            "id": "a5b0982cb3c9d07a",
+            "id": "08d967b9869c510f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Тимлид/Тимлид.md",
+                "file": "Продукт и исследования/Геймификация в продукте.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "55d3bd227bc0f9af"
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "449f0e6e9d61f239",
+        "type": "tabs",
+        "dimension": 37.607449856733524,
+        "children": [
+          {
+            "id": "c3127d9f3b05dc24",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Продукт и исследования/Геймификация в продукте.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.020480153649453,
+                  "close": true
+                }
+              }
+            },
+            "group": "55d3bd227bc0f9af"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9181af09aa5b455e",
@@ -95,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Тимлид/Тимлид.md",
+                "file": "Продукт и исследования/Геймификация в продукте.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Тимлид/Тимлид.md",
+                "file": "Продукт и исследования/Геймификация в продукте.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,41 +181,59 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Тимлид/Тимлид.md"
+                "file": "Продукт и исследования/Геймификация в продукте.md"
               }
             }
+          },
+          {
+            "id": "494b87276c20b6d8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
+    "width": 393.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "random-note:Открыть случайную заметку": false,
-      "audio-recorder:Начать/остановить запись": false,
-      "workspaces:Пространства": false,
-      "publish:Публикация изменений": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "canvas:Create new canvas": false
     }
   },
-  "active": "a5b0982cb3c9d07a",
+  "active": "c3127d9f3b05dc24",
   "lastOpenFiles": [
-    "01 Тимлид/Роли и обязанности/Встреча 1-1.md",
-    "01 Тимлид/Тимлид.md",
-    "Менеджмент. Управление продуктом. Управление людьми/12 принципов Agile.md",
-    "01 Тимлид/Тестовая заметка2.md",
-    "00 Meta/Template/Note template.md",
-    "01 Тимлид/Untitled.canvas",
-    "Менеджмент. Управление продуктом. Управление людьми/Кросс-функциональные команды.md",
-    "Менеджмент. Управление продуктом. Управление людьми/Спринт.md",
-    "Менеджмент. Управление продуктом. Управление людьми/Итеративная и инкрементальная работа.md",
-    "Менеджмент. Управление продуктом. Управление людьми/Внедрение Agile.md"
+    "Руководство по оформлению портфолио.md",
+    "01 Тимлид/Менеджмент. Управление ресусами.md",
+    "Про проекты, оценку и продуктивность.md",
+    "Как хранить знания о пользователях.md",
+    "Как вытащить смыслы из заказчика.md",
+    "Продукт и исследования/Гипотеза.md",
+    "Продукт и исследования/Product Discovery.md",
+    "Продукт и исследования/Геймификация в продукте.md",
+    "00 Meta/File/Pasted image 20230412133153.png",
+    "Немного о гайдах.md",
+    "00 Meta/Daily Note/09-03-2023.md",
+    "Продукт и исследования/Обратная связь в исследованиях.md",
+    "Продукт и исследования/Понятийная ценность.md",
+    "Продукт и исследования/00. UX исследования 2.md",
+    "Продукт и исследования/Продуктовый цикл разработки. HADI 2.md",
+    "Продукт и исследования/Поиск проблем.md",
+    "00 Meta/Daily Note/02-03-2023.md",
+    "Продукт и исследования/Продуктовый цикл разработки. HADI.md",
+    "Продукт и исследования/Конкурентный анализ.md",
+    "Продукт и исследования/Бенчмаркинг пользовательского опыта. UX benchmarking.md",
+    "Продукт и исследования/00. Количественные методы исследования.md"
   ]
 }

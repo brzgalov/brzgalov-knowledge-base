@@ -11,8 +11,13 @@
             "id": "664106d8b6a735e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/Daily Note/18-01-2023.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -68,7 +73,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "0334d4ce21e41462",
@@ -80,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "00 Meta/Daily Note/18-01-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -96,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "00 Meta/Daily Note/18-01-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "00 Meta/Daily Note/18-01-2023.md"
+          }
         }
       }
     ],
@@ -114,6 +124,7 @@
   },
   "active": "664106d8b6a735e3",
   "lastOpenFiles": [
+    "00 Meta/Daily Note/18-01-2023.md",
     "Обучение и менторство/Карта компетенций продуктового исследователя.md",
     "01 Тимлид/Тимлид.md",
     "01 Тимлид/Встреча 1-1.md",
